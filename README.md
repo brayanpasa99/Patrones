@@ -1,12 +1,11 @@
 # Patrones de Diseño GoF
 
-Brayan Alexander Paredes Sánchez - 20171020106
---
+Brayan Alexander Paredes Sánchez - 20171020106<br/>
 Juan Camilo Martínez López - 20171020074
---
 
 
 * Patrones Creacionales:
+--
 
   * [Abstract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Abstract%20Factory.pdf)
   * [Builder](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Builder/Builder.pdf)
@@ -15,6 +14,7 @@ Juan Camilo Martínez López - 20171020074
   * [Singleton](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Singleton/Singleton.pdf)
   
 * Patrones Estructurales:
+--
   
   * [adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
   * [Brigde](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Bridge/Bridge.pdf)
