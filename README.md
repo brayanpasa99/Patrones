@@ -10,9 +10,9 @@ Son modelos aplicables a problemas comunes en el desarrollo del Software. Las so
 Lo anterior contribuye a un entendimiento globalizado del código, haciendo más fácil la interpretación por diferentes programadores. Son un apoyo para mantener buenas prácticas de programación, teniendo en cuenta principios como los SOLID.
 
 Existen tres clases de patrones de diseño:
-	* Patrones creacionales
-	* Patrones estructurales
-	* Patrones de comportamiento
+ * Patrones creacionales
+ * Patrones estructurales
+ * Patrones de comportamiento
 
 Son 23 patrones presentados en el libro "Design Pattern" de los "Gang of Four" (Pandilla de los cuatro) el 21 de octubre de 1994; sus integrantes eran: Erich Gamma, John Vlissides, Ralph Johnson y Richard Helm.
 
