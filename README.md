@@ -3,7 +3,8 @@
 Brayan Alexander Paredes Sánchez - 20171020106<br/>
 Juan Camilo Martínez López - 20171020074</br>
 
-¿Qué sonlos patrones de diseño de software?
+¿Qué son los patrones de diseño de software?
+--
 
 Son modelos aplicables a problemas comunes en el desarrollo del Software. Las soluciones de modelamiento que proporcionan son probadas y documentadas, también son independientes del lenguaje de programación ya que su enfoque va dirigido a la creación y uso de clases y objetos de manera eficiente.
 
