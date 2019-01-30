@@ -4,7 +4,7 @@ Brayan Alexander Paredes Sánchez - 20171020106<br/>
 Juan Camilo Martínez López - 20171020074
 
 
-* Patrones Creacionales:
+Patrones Creacionales:
 --
 
   * [Abstract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Abstract%20Factory.pdf)
@@ -13,7 +13,7 @@ Juan Camilo Martínez López - 20171020074
   * [Prototype](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Prototype.pdf)
   * [Singleton](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Singleton/Singleton.pdf)
   
-* Patrones Estructurales:
+Patrones Estructurales:
 --
   
   * [adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
