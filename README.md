@@ -13,7 +13,7 @@
   
 * Patrones Estructurales:
   
-  * [adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
+  * [Adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
   * [Brigde](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Bridge/Bridge.pdf)
   * [Composite](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Composite/Composite.pdf)
   * [Decorator](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Decorator/Decorator.pdf)
