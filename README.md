@@ -1,5 +1,6 @@
 # Patrones de Diseño GoF
 
+*
   * Brayan Alexander Paredes Sánchez - 20171020106
   * Juan Camilo Martínez López - 20171020074
 
@@ -13,7 +14,7 @@
   
 * Patrones Estructurales:
   
-  * [Adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
+  * [adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
   * [Brigde](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Bridge/Bridge.pdf)
   * [Composite](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Composite/Composite.pdf)
   * [Decorator](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Decorator/Decorator.pdf)
