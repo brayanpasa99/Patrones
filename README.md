@@ -1,4 +1,4 @@
-# Repositorio de Patrones
+# Patrones de Diseño GoF
 
 <ul>
   <li>Brayan Alexander Paredes Sánchez - 20171020106</li>
