@@ -2,7 +2,7 @@
 
 *
   * Brayan Alexander Paredes Sánchez - 20171020106</li>
-  *Juan Camilo Martínez López - 20171020074</li>
+  * Juan Camilo Martínez López - 20171020074</li>
 
 * Patrones Creacionales:
 
