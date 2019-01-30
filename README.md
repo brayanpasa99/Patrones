@@ -5,4 +5,4 @@
   <li>Juan Camilo Martínez López - 20171020074</li>
 </ul>
 
-Éste repositorio contiene toda la información sobre los patrones de diseño que vamos haciendo en la clase de Modelos de programación I
+* [Un link] (https://www.google.com/search?q=Patrones+de+dise%C3%B1o+Gof&oq=Patrones+de+dise%C3%B1o+Gof&aqs=chrome..69i57.5535j0j1&sourceid=chrome&ie=UTF-8)
