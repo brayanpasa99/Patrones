@@ -11,7 +11,7 @@ Lo anterior contribuye a un entendimiento globalizado del código, haciendo más
 
 Existen tres clases de patrones de diseño:
 	* Patrones creacionales
- * Patrones estructurales
+	* Patrones estructurales
 	* Patrones de comportamiento
 
 Son 23 patrones presentados en el libro "Design Pattern" de los "Gang of Four" (Pandilla de los cuatro) el 21 de octubre de 1994; sus integrantes eran: Erich Gamma, John Vlissides, Ralph Johnson y Richard Helm.
