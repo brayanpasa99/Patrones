@@ -1,7 +1,10 @@
-# Patrones de Diseño GoF
+# Patrones de Diseño de Software
 
 Brayan Alexander Paredes Sánchez - 20171020106<br/>
-Juan Camilo Martínez López - 20171020074
+Juan Camilo Martínez López - 20171020074</br>
+
+Son 23 patrones presentados en el libro "Design Pattern" de los "Gang of Four" (Pandilla de los cuatro)
+el 21 de octubre de 1994; sus integrantes eran: Erich Gamma, John Vlissides, Ralph Johnson y Richard Helm.
 
 
 Patrones Creacionales:
