@@ -1,8 +1,8 @@
 # Patrones de Diseño GoF
 
+Brayan Alexander Paredes Sánchez - 20171020106
 --
-* Brayan Alexander Paredes Sánchez - 20171020106
-* Juan Camilo Martínez López - 20171020074
+Juan Camilo Martínez López - 20171020074
 --
 
 
