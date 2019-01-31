@@ -1,40 +1,42 @@
 # Abstract Factory
 
-Nombre:
+## Nombre:
 --
 Abstract Factory
 
-Clasificación del patrón:
+## Clasificación del patrón:
 --
 Creacional
 
-Intención:
+## Intención:
 --
 Provee una interface para crear familias de objetos relacionados o dependientes sin especificar
 sus clases concretas
 
-Otros nombres:
+## Otros nombres:
 --
 Kit, Fábrica Abstracta
 
-Motivación:
+## Motivación:
 --
 Teniendo un conjunto de herramientas que soportan varias representaciones. El patrón de diseño
 soluciona el problema de que el cliente deba cambiar si cambia la interfaz de usuario,
 convirtiendo lo anterior en una falacia. Con la implementación se pueden obtener varios look and
 feel reduciendo el consumo de recursos del programa y facilitando su flexibilidad.
 
-Aplicabilidad:
+## Aplicabilidad:
 --
 Se debe usar cuando:
 ● Una aplicación no debe depender de cómo son creadas las instancias de la clase.
 ● El servicio debe ser configurado con una de múltiples familias de clases.
 ● El software debe usar clases solamente de una familia a la vez.
 
-Estructura:
+## Estructura:
 --
 
-Participantes:
+![Estructura Absctract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/Estructura.png)
+
+## Participantes:
 --
 ● Cliente: Es el que quiere obtener la instancia de alguno de los productos, llamará a la
 factoría adecuada.
@@ -45,7 +47,7 @@ familia que van a crear.
 ● Producto Abstracto: Definición de interfaces para las familias de productos genéricos.
 ● Producto Concreto: Implementación de los diferentes productos.
 
-Colaboraciones:
+## Colaboraciones:
 --
 Generalmente la instancia Fábrica Concreta se crea en tiempo de ejecución, ésta crea el objeto
 producto con una implementación en particular. Para crear diferentes Productos los clientes
@@ -68,23 +70,38 @@ en las clases de Productos Concretos es donde realmente se crean ellos mismos.
 producto. La aparición de productos hace obligatoria la modificación de la interfaz
 Factoría Abstracta.
 
-Código de ejemplo:
+## Código de ejemplo:
 --
 ● Clase reloj:
 
+![Clase reloj](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%201.png)
+
 ● Formato AM_PM:
+
+![Formato AM_PM](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%202.png)
+
 ● Formato 24 horas:
 
+![Formato 24 horas](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%203.png)
+
 ● Manejador de instancias:
+
+![Manejador de instancias](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%204.png)
+
 ● Clase cliente:
-Usos conocidos:
+
+![Clase cliente](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%205.png)
+
+## Usos conocidos:
+--
+
 ● ET++ para archivar portablemente sobre diferentes sistemas windows.
 Patrones relacionados:
 ● Prototype
 ● Singleton
 ● Factory Method
 
-Bibliografía:
+## Bibliografía:
 --
 No específico. (No específico). GoF Design Patterns (Versión 2.1.0) [Aplicación móvil].
 Descargado de: ​https://drive.google.com/file/d/0BywiVyFlIabXcVhGZlJBcnhWTkU/view​.
