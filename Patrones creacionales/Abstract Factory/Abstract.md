@@ -32,7 +32,6 @@ Se debe usar cuando:
 ● El software debe usar clases solamente de una familia a la vez.  
 
 ## Estructura:
---
 
 ![Estructura Absctract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/Estructura.png)
 
@@ -48,25 +47,25 @@ familia que van a crear.
 ● Producto Concreto: Implementación de los diferentes productos.  
 
 ## Colaboraciones:
---
+
 Generalmente la instancia Fábrica Concreta se crea en tiempo de ejecución, ésta crea el objeto
 producto con una implementación en particular. Para crear diferentes Productos los clientes
 deberán usar diferentes Fábricas Concretas.  
 
-Ventajas:  
+**Ventajas:**  
 
 ● Contribuye a la elaboración de un diseño ligeramente acoplado.  
 ● Restringe el uso de clases de una familia o una configuración de familias a la vez.  
 ● El soporte a nuevas configuraciones es fácil.  
 ● Promueve la consistencia entre clases.  
 
-Desventajas:  
+**Desventajas:**  
 
 ● El número de clases que pueden ser instanciados por cada familia es definido en la
 interface del Abstract Factory.  
 ● Hace difícil añadir nuevas clases.  
 
-Implementación:  
+**Implementación:**  
 
 ● Fábricas como Singleton: Usualmente solo se requiere una instancia de cada Factoría
 Concreta.  
@@ -99,22 +98,25 @@ Factoría Abstracta.
 ![Clase cliente](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Im%C3%A1genes/C%C3%B3digo%20de%20ejemplo%205.png)
 
 ## Usos conocidos:
---
 
-● ET++ para archivar portablemente sobre diferentes sistemas windows.
-Patrones relacionados:
-● Prototype
-● Singleton
-● Factory Method
+● ET++ para archivar portablemente sobre diferentes sistemas windows.  
+
+## Patrones relacionados:  
+
+● Prototype  
+● Singleton  
+● Factory Method  
 
 ## Bibliografía:
---
+
 No específico. (No específico). GoF Design Patterns (Versión 2.1.0) [Aplicación móvil].
-Descargado de: ​https://drive.google.com/file/d/0BywiVyFlIabXcVhGZlJBcnhWTkU/view​.
+Descargado de: ​https://drive.google.com/file/d/0BywiVyFlIabXcVhGZlJBcnhWTkU/view​.  
 
 Abstract Factory [Página web]. (10 de octubre de 2018). Ubicación:
-https://www.ecured.cu/Abstract_Factory​.
+https://www.ecured.cu/Abstract_Factory​.  
+
 Zuluaga, P. (21 de abril de 2015). Abstract Factory. Patrones de Software.
-http://patronesdedis.blogspot.com/2015/04/abstract-factory.html​.
+http://patronesdedis.blogspot.com/2015/04/abstract-factory.html​.  
+
 Junta de Andalucía. (s.f). Factoría Abstracta. Marco de Desarrollo de la Junta de Andalucía.
-http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/191​.
+http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/191​.  
