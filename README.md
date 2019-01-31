@@ -27,11 +27,11 @@ https://sophia.javeriana.edu.co/~lcdiaz/ADOO2007-3/PatronesGoF-ACCR.pdf
 Patrones Creacionales:
 --
 
-  * [Abstract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Abstract%20Factory.pdf)
-  * [Builder](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Builder/Builder.pdf)
-  * [Factory Method](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Factory%20Method/Factory%20Method.pdf)
-  * [Prototype](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Prototype.pdf)
-  * [Singleton](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Singleton/Singleton.pdf)
+  * [Abstract Factory](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Abstract%20Factory/Abstract.md)
+  * [Builder](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Builder/Builder.md)
+  * [Factory Method](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Factory%20Method/FactoryMethod.md)
+  * [Prototype](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Prototype.md)
+  * [Singleton](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Singleton/Singleton.md)
   
 Patrones Estructurales:
 --
