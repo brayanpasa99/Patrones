@@ -36,7 +36,7 @@ estado.
 
 ## Estructura:
 
-[!Estructura](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Im%C3%A1genes/Estructura.png)
+![Estructura](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Im%C3%A1genes/Estructura.png)
 
 ## Participantes:
 
