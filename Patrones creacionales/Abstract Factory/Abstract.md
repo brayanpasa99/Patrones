@@ -1,35 +1,35 @@
 # Abstract Factory
 
 ## Nombre:
---
+
 Abstract Factory
 
 ## Clasificación del patrón:
---
+
 Creacional
 
 ## Intención:
---
+
 Provee una interface para crear familias de objetos relacionados o dependientes sin especificar
 sus clases concretas
 
 ## Otros nombres:
---
+
 Kit, Fábrica Abstracta
 
 ## Motivación:
---
+
 Teniendo un conjunto de herramientas que soportan varias representaciones. El patrón de diseño
 soluciona el problema de que el cliente deba cambiar si cambia la interfaz de usuario,
 convirtiendo lo anterior en una falacia. Con la implementación se pueden obtener varios look and
 feel reduciendo el consumo de recursos del programa y facilitando su flexibilidad.
 
 ## Aplicabilidad:
---
+
 Se debe usar cuando:
-● Una aplicación no debe depender de cómo son creadas las instancias de la clase.
-● El servicio debe ser configurado con una de múltiples familias de clases.
-● El software debe usar clases solamente de una familia a la vez.
+● Una aplicación no debe depender de cómo son creadas las instancias de la clase.  
+● El servicio debe ser configurado con una de múltiples familias de clases.  
+● El software debe usar clases solamente de una familia a la vez.  
 
 ## Estructura:
 --
