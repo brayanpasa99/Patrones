@@ -3,22 +3,27 @@
 Nombre:
 --
 Abstract Factory
+
 Clasificación del patrón:
 --
 Creacional
+
 Intención:
 --
 Provee una interface para crear familias de objetos relacionados o dependientes sin especificar
 sus clases concretas
+
 Otros nombres:
 --
 Kit, Fábrica Abstracta
+
 Motivación:
 --
 Teniendo un conjunto de herramientas que soportan varias representaciones. El patrón de diseño
 soluciona el problema de que el cliente deba cambiar si cambia la interfaz de usuario,
 convirtiendo lo anterior en una falacia. Con la implementación se pueden obtener varios look and
 feel reduciendo el consumo de recursos del programa y facilitando su flexibilidad.
+
 Aplicabilidad:
 --
 Se debe usar cuando:
@@ -28,6 +33,7 @@ Se debe usar cuando:
 
 Estructura:
 --
+
 Participantes:
 --
 ● Cliente: Es el que quiere obtener la instancia de alguno de los productos, llamará a la
@@ -61,6 +67,7 @@ en las clases de Productos Concretos es donde realmente se crean ellos mismos.
 ● Definición de factorías extensibles: Factoría Abstracta define operaciones por cada
 producto. La aparición de productos hace obligatoria la modificación de la interfaz
 Factoría Abstracta.
+
 Código de ejemplo:
 --
 ● Clase reloj:
@@ -76,6 +83,7 @@ Patrones relacionados:
 ● Prototype
 ● Singleton
 ● Factory Method
+
 Bibliografía:
 --
 No específico. (No específico). GoF Design Patterns (Versión 2.1.0) [Aplicación móvil].
