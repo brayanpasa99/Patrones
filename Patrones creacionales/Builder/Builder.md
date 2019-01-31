@@ -8,7 +8,7 @@ Builder
 
 Creacional
 
-##Intención:
+## Intención:
 
 Separa la construcción de un objeto complejo de su representación, hace que el mismo proceso
 de construcción pueda crear varias representaciones.
@@ -35,7 +35,7 @@ especificación sin modificar el lector como tal. Aquí nace el patrón Builder.
 
 ![Estructura](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Builder/Im%C3%A1genes/Estructura.png)
 
-##Participantes:
+## Participantes:
 
 ● Constructor: Especifica una interfaz abstracta para construir partes del objeto producto.  
 ● Constructor Concreto: Implementa la interfaz constructor ensamblando y construyendo
