@@ -36,10 +36,10 @@ Patrones Creacionales:
 Patrones Estructurales:
 --
   
-  * [adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.pdf)
-  * [Brigde](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Bridge/Bridge.pdf)
-  * [Composite](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Composite/Composite.pdf)
-  * [Decorator](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Decorator/Decorator.pdf)
-  * [Facade](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Facade/Fachada.pdf)
-  * [Flyweight](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Flyweight/Flyweight.pdf)
-  * [Proxy](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Proxy/Proxy.pdf)
+  * [Adapter](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Adapter/Adapter.md)
+  * [Brigde](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Bridge/Bridge.md)
+  * [Composite](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Composite/Composite.md)
+  * [Decorator](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Decorator/Decorator.md)
+  * [Facade](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Facade/Facade.md)
+  * [Flyweight](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Flyweight/Flyweight.md)
+  * [Proxy](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20estructurales/Proxy/Proxy.md)
