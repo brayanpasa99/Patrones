@@ -62,6 +62,7 @@ porque las clases del subsistema pueden cambiar sin afectar las clases de los cl
 a objetos reduciendo los errores de programación.  
  
 **Desventajas:**
+
 ● El uso excesivo del patrón nos guía a un sistema poco funcional, con muchas capas y
 errores del funcionamiento.  
 
