@@ -32,7 +32,7 @@ Facilitan la creación de los objetos a tal punto que el funcionamiento del sist
   * [Factory Method](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Factory%20Method/FactoryMethod.md)
   * [Prototype](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Prototype/Prototype.md)
   * [Singleton](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Singleton/Singleton.md)
-  * [ObjectPool](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Object%20pool/ObjectPool.md)
+  * [Pool de objetos](https://github.com/brayanpasa99/Patrones/blob/master/Patrones%20creacionales/Object%20pool/ObjectPool.md)
   
 ## Patrones Estructurales:
 
