@@ -2,6 +2,7 @@
 
 Brayan Alexander Paredes Sánchez - 20171020106  
 Juan Camilo Martínez López - 20171020074
+Nicolás López Nieto - 20171020066
 
 ## ¿Qué son los patrones de diseño de software?
 
