@@ -1,20 +1,25 @@
-Object pool
+# Object pool
 
-Nombre:
+## Nombre:
+
 Object pool 
 
-Clasificación del patrón:
+## Clasificación del patrón:
+
 Creacional
 
-Intención:
+## Intención:
+
 Inicializar objetos sin destruirlos posteriormente con la finalidad de reciclarlos rápidamente, disminuyendo el tiempo de ejecución de los programas.
 
 
-Motivación:
+## Motivación:
+
 Al observar que los programas tenían que crear y posteriormente destruir los objetos que generalmente eran muy utilizados, se hizo necesario crear un patrón de diseño para agilizar y optimizar los programas.
 
-Aplicabilidad:
-Se debe usar cuando:
+## Aplicabilidad:
+
+**Se debe usar cuando:**
 
  Un objeto es requerido muchas veces.
  Cuando se tiene muchos procesos al mismo tiempo.
