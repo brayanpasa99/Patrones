@@ -57,29 +57,29 @@ Si hay algún Reusableobjeto en la agrupación cuando acquireReusablese llama al
 
 ## Código de ejemplo:
 
-using UnityEngine;
-using System.Collections;
-public class PoolManager : MonoBehaviour {
- public bool NewShoot(GameObject shooter, string nameOfType)
- {
-  Transform t = transform.FindChild(nameOfType);
-  for (int i = 0;i<t.childCount;i++)
-  {
-   if(!t.GetChild(i).gameObject.activeSelf)
-   {
-    t.GetChild(i).gameObject.SetActive(true);
-    return true;
-   }
-  }
-  return false;
- }
- public void NewBullet(string nameOfType)
- {
-  Transform t = transform.FindChild(nameOfType);
-  GameObject g = Instantiate(t.GetChild(0).gameObject) as GameObject;
-  g.transform.parent = t;
- }
-}
+using UnityEngine;  
+using System.Collections;  
+public class PoolManager : MonoBehaviour {  
+ public bool NewShoot(GameObject shooter, string nameOfType)  
+ {  
+  Transform t = transform.FindChild(nameOfType);  
+  for (int i = 0;i<t.childCount;i++)  
+  {  
+   if(!t.GetChild(i).gameObject.activeSelf)  
+   {  
+    t.GetChild(i).gameObject.SetActive(true);  
+    return true;  
+   }  
+  }  
+  return false;  
+ }  
+ public void NewBullet(string nameOfType)  
+ {  
+  Transform t = transform.FindChild(nameOfType);  
+  GameObject g = Instantiate(t.GetChild(0).gameObject) as GameObject;  
+  g.transform.parent = t;  
+ }  
+}  
 
 ## Usos conocidos:
 Este patrón se utiliza ampliamente en los juegos de las cosas obvias, como las entidades de juegos y efectos visuales, pero también se utiliza para estructuras de datos menos visibles, como la reproducción de sonidos en la actualidad
